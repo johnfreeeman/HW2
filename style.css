@@ -1,0 +1,40 @@
+body {
+    background-color: lightgreen;
+    font-size: 22pt;
+    font-family: Times new roman
+}
+
+
+.note {
+	border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+	margin-right: 150px;
+    margin-left: 80px;
+	background-color: lightblue;
+	padding: 10px;
+}
+	
+h3 {
+    color: white;
+    text-align: center;
+}
+
+h5 {
+    color: white;
+    text-align: left;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+h2 {
+	text-align:center;
+}
+
+img {
+	display: block;
+	margin: auto;
+	}
